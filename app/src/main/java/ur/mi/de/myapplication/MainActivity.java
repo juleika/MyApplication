@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
 
         int zwanzig = zehn * 2;
         int vierzig = zwanzig * 2;
+        int ggggggg;
     }
 }
