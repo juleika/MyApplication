@@ -12,5 +12,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         int fünf = 5;
+        int zehn = fünf * 2;
+
+        int zwanzig = zehn * 2;
     }
 }
